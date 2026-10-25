@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/sharvixtechnologies">
-    <img src="https://github.com/sharvixtechnologies.png" width="136" alt="SHARVIX TECHNOLOGIES logo" />
+    <img src="./assets/sharvix-logo.png" width="900" alt="SHARVIX TECHNOLOGIES official logo" />
   </a>
 
   <h1>SHARVIX TECHNOLOGIES</h1>
@@ -12,7 +12,7 @@
   <p>
     <a href="mailto:sharvixtechnologies@gmail.com"><img alt="Email us" src="https://img.shields.io/badge/Let's%20Collaborate-0B6BCB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.instagram.com/sharvix_tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-141B2D?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/harshad-ahire/"><img alt="Founder on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/company/sharvix-technologies/"><img alt="SHARVIX TECHNOLOGIES on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 
   <p><em>Build with purpose. Design for people. Scale with confidence.</em></p>
@@ -74,6 +74,7 @@ Have a product idea, development requirement, collaboration proposal, or busines
 Email: sharvixtechnologies@gmail.com
 Instagram: @sharvix_tech
 GitHub: github.com/sharvixtechnologies
+LinkedIn: SHARVIX TECHNOLOGIES
 <div align="center">
   <strong>SHARVIX TECHNOLOGIES</strong><br/>
   <sub>Technology with purpose · Innovation with impact</sub><br/>

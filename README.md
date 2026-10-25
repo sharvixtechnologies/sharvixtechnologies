@@ -2,7 +2,7 @@
 <div align="center">
 
   <a href="https://github.com/sharvixtechnologies">
-    <img src="./sharvix-logo.png" alt="SHARVIX TECHNOLOGIES Official Logo" width="500" />
+    <img src="./sharvix-logo.png" alt="SHARVIX TECHNOLOGIES Official Logo" width="400" />
   </a>
 
   <h1>SHARVIX TECHNOLOGIES</h1>
